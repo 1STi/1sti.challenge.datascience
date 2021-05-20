@@ -1,1 +1,0 @@
-# 1sti.challenge.datascience
