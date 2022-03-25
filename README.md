@@ -1,7 +1,7 @@
 ## Desafio 1STi Data Science   
 
 A tarefa de Reconhecimento de Entidades Mencionadas *(Named Entity Recognition)* tem o objetivo de localizar e classificar elementos do texto em categorias pré-definidas, como medicamentos, dosagem, frequência, procedimento, doença, entre outras categorias de interesse.
-![NER](img/ner.png)  
+![NER](ner.png)  
 Algoritmos de NER são treinados com uma grande quantidade de dados anotados manualmente, dependendo do domínio, especialistas são utilizados no processo de anotação. No entanto, a tarefa de anotação é custosa, requer muito tempo e esforço dos especialistas, principalmente no domínio de saúde. Para categorias específicas pode ser implementado um modelo **NER baseado em regras**, esse modelo será utilizado para **agilizar o processo de anotação**.
 
 ### Objetivo 
