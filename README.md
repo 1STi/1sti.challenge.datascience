@@ -11,7 +11,7 @@ Implementar modelo NER baseado em regras para classificação de medicamentos, d
 * **Dosagem:** utilizar regex para definir os padrões.  
     Ex: 2 comprimidos, 20 miligramas, 15 mg, 5 gotas, 4 puffs, 1000 UI, 3 cápsulas, 300 mililitros.
     
-* **Frequência:** utilizar regex para definir os padrões.
+* **Frequência:** utilizar regex para definir os padrões.  
     Ex: 1 vez ao dia, 3 vezes na semana, 1 vez pela manhã, 1 vez a noite.  
     
 ### Extra (Não obrigatório)  
